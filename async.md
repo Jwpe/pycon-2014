@@ -8,7 +8,7 @@
 
 - [Seminal Paper](kegel.com/c10k.html)
 
-## Why is async hard to come?
+## Why is async hard to do?
 
 - You need to store state
 - Needs to remember for a frontend client, what to do when the backend responds
